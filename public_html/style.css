@@ -1,0 +1,64 @@
+/* 
+
+  Name: Swarn Phore
+  Class: Csc 337
+  Descripition: This is the css file responsible for styling the index.html file. 
+  It is responsible for how the webpage is colored and formatted. It adjusts 
+  various aspects like alignment of text and font-size.
+
+*/
+#text{
+	display: block;
+	position: fixed;
+	background-color: mediumaquamarine;
+	height: 70%;
+	padding:0;
+	top: 0;
+	width: 100%;
+}
+
+body{
+	margin: 0;
+}
+
+#panel{
+	height: 30%;
+	top: 70%;
+	display: block;
+	position: fixed;
+	width: 100%;
+	background-color: black;
+	color: mediumaquamarine;
+	}
+
+.Alias{
+	margin-left: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+.Message{
+	margin-left: 20px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+#ali{
+	margin-left: 23px;
+}
+
+#mess{
+	width: 20%;
+	height: 75px;
+}
+
+#submit{
+	margin-left: 85px;
+	margin-top: 30px;
+}
+
+
+
+
+
+
